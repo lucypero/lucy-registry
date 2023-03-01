@@ -1,4 +1,4 @@
 {
-    "dl": "https://github.com/lucypero/the-crates/releases/download/{version}/{crate}-{version}.crate",
+    "dl": "https://github.com/lucypero/the-crates/releases/download/{crate}/{crate}-{version}.crate",
     "auth-required": true
 }
